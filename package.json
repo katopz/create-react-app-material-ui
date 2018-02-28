@@ -3,12 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "material-ui": "^0.19.4",
-    "react": "^16.1.1",
-    "react-dom": "^16.1.1",
-    "react-scripts": "^1.0.17",
+    "material-ui": "^0.20.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "^1.1.1",
     "react-tap-event-plugin": "^3.0.2",
-    "typeface-roboto": "0.0.45"
+    "typeface-roboto": "0.0.54"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -10,9 +10,9 @@ Simple Create React App with Material-UI form submit example
 
 ## Setup
 ```
-npm i
+yarn install
 ```
 ## Develop
 ```
-npm run start
+yarn start
 ```
