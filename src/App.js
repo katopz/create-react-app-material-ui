@@ -12,10 +12,6 @@ import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'
 // Font
 import 'typeface-roboto'
 
-// Click handler
-import injectTapEventPlugin from 'react-tap-event-plugin'
-injectTapEventPlugin()
-
 // Styles
 const styles = {
   container: {
